@@ -33,3 +33,11 @@ section#telefone {
     width: 215px;
     background: url('../imagens/frame-iphone-pqn.png') no-repeat;
 }
+
+iframe#tela {
+    position: relative;
+    top: 55px;
+    left: 14px;
+    width: 186px;
+    height: 326px;
+}
